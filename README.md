@@ -8,7 +8,9 @@
 [![Aztec](https://img.shields.io/badge/Aztec-v2.1.8-purple)](https://aztec.network)
 [![Noir](https://img.shields.io/badge/Noir-Latest-black)](https://noir-lang.org)
 
-[Website](https://onyx.xyz) • [Whitepaper](./whitepaper.pdf) • [Docs](./docs) • [Twitter](https://twitter.com/OnyxProtocol)
+[Website](https://onyx.xyz) • [Whitepaper](./whitepaper.pdf) • [Deck](./OnyxProtocol_Deck.pdf) • [Docs](./docs) • [Twitter](https://twitter.com/OnyxProtocol)
+
+> **Note:** If you would like to look at a visual deck to understand more about the protocol architecture and flow, please view the [Onyx Protocol Deck](./OnyxProtocol_Deck.pdf).
 
 </div>
 
