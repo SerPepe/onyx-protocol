@@ -1,0 +1,9 @@
+[workspace]
+members = [
+    "contracts/ZToken",
+    "contracts/PriceOracle",
+    "contracts/OnyxVault",
+    "contracts/usdo_token",
+    "contracts/xusdo_token",
+    "contracts/usdo_vault"
+]
