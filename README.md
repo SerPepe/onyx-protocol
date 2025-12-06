@@ -8,7 +8,7 @@
 [![Aztec](https://img.shields.io/badge/Aztec-v2.1.8-purple)](https://aztec.network)
 [![Noir](https://img.shields.io/badge/Noir-Latest-black)](https://noir-lang.org)
 
-[Website](https://onyx.xyz) • [Whitepaper](./whitepaper.pdf) • [Deck](./OnyxProtocol_Deck.pdf) • [Docs](./docs) • [Twitter](https://twitter.com/OnyxProtocol)
+[Website]([Website](https://onyx-protocol.vercel.app) • [Whitepaper](./whitepaper.pdf) • [Deck](./OnyxProtocol_Deck.pdf) • [Docs](./docs) • [Twitter](https://twitter.com/OnyxProtocol)
 
 > **Note:** If you would like to look at a visual deck to understand more about the protocol architecture and flow, please view the [Onyx Protocol Deck](./OnyxProtocol_Deck.pdf).
 
@@ -18,11 +18,11 @@
 
 Onyx Protocol introduces **USDO**, a privacy-preserving USD-pegged stablecoin backed by Zcash (ZEC) and secured on the Aztec network. Unlike traditional stablecoins that sacrifice privacy for transparency, Onyx combines:
 
-- **🔒 Privacy**: All balances and positions are shielded using Aztec's zero-knowledge rollup
-- **💎 Real Collateral**: Every USDO is backed by ZEC held in verified reserves
-- **📊 Dynamic Risk Model**: Three-zone minting function that adapts to market conditions
-- **⏰ Time-Based Rewards**: Redemption bonuses that reward long-term holders
-- **🛡️ Volatility Buffer**: Absorption pool to smooth out ZEC price swings
+- ** Privacy**: All balances and positions are shielded using Aztec's zero-knowledge rollup
+- ** Real Collateral**: Every USDO is backed by ZEC held in verified reserves
+- ** Dynamic Risk Model**: Three-zone minting function that adapts to market conditions
+- ** Time-Based Rewards**: Redemption bonuses that reward long-term holders
+- ** Volatility Buffer**: Absorption pool to smooth out ZEC price swings
 
 ## Key Features
 
@@ -219,17 +219,6 @@ npm run lint
 cd frontend && npm run build
 ```
 
-## Security
-
-**⚠️ This is experimental software. Use at your own risk.**
-
-Onyx Protocol is currently in active development. Contracts have NOT been audited. Do not use with real funds.
-
-To report security issues, please email: security@onyx.xyz
-
-## License
-
-MIT License - see [LICENSE](./LICENSE) for details
 
 ## Team
 
@@ -247,6 +236,6 @@ Built with ❤️ by Onyx Labs
 
 <div align="center">
 
-**[Read the Whitepaper](./whitepaper.pdf)** • **[Try the App](https://app.onyx.xyz)**
+**[Read the Whitepaper](./whitepaper.pdf)** • **[Try the App](https://onyx-protocol.vercel.app)**
 
 </div>
